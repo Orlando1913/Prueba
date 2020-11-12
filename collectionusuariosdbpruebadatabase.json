@@ -1,0 +1,85 @@
+[{
+  "_id": {
+    "$oid": "5fab774fe35bcb3b046f7dfc"
+  },
+  "nombre": "Orlando",
+  "apellido": "Henao",
+  "sexo": "Masculino",
+  "correo": "orlo@gmail.com",
+  "createdAt": {
+    "$date": "2020-11-11T05:31:59.759Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-11T05:31:59.759Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fab783eb3ccd63f2043a4b1"
+  },
+  "nombre": "John",
+  "apellido": "perez",
+  "sexo": "Masculino",
+  "correo": "jose@gmail.com",
+  "createdAt": {
+    "$date": "2020-11-11T05:35:58.639Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-11T06:22:35.690Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fab834bc25bd826c07f4647"
+  },
+  "nombre": "carlos",
+  "apellido": "duque",
+  "sexo": "Masculino",
+  "correo": "carlitos@gmail.com",
+  "createdAt": {
+    "$date": "2020-11-11T06:23:07.147Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-11T06:23:53.218Z"
+  }
+},{
+  "_id": {
+    "$oid": "5facd6084994493908dec2d1"
+  },
+  "nombre": "Gloria Elena",
+  "apellido": "Henao Cespedes",
+  "correo": "gloria_elenah@hotmail.com",
+  "sexo": "femenino",
+  "createdAt": {
+    "$date": "2020-11-12T06:28:24.249Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-12T06:28:24.249Z"
+  }
+},{
+  "_id": {
+    "$oid": "5facda224994493908dec2d2"
+  },
+  "nombre": "Yolima",
+  "apellido": "Henao Cespedes",
+  "correo": "yola@hotmail.com",
+  "sexo": "Femenino",
+  "createdAt": {
+    "$date": "2020-11-12T06:45:54.702Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-12T06:45:54.702Z"
+  }
+},{
+  "_id": {
+    "$oid": "5facdad24994493908dec2d3"
+  },
+  "nombre": "maria",
+  "apellido": "zapata",
+  "correo": "maria@gmail.com",
+  "sexo": "femenino",
+  "createdAt": {
+    "$date": "2020-11-12T06:48:50.152Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-12T06:48:50.152Z"
+  }
+}]

@@ -1,0 +1,31 @@
+@url= http://localhost:5000
+
+### obtener todos los usuarios
+GET {{url}}/usuario
+
+### obtener un usuario
+GET {{url}}/usuario/5fab783eb3ccd63f2043a4b1
+
+### crear un usuario
+POST {{url}}/usuario
+Content-Type:  application/json
+
+{
+    "nombre" : "carlos",
+    "apellido": "duque",
+    "sexo": "Masculino",
+    "correo": "carlos@gmail.com"
+}
+
+### actualizar un usuario
+PUT {{url}}/usuario/5fab834bc25bd826c07f4647
+Content-Type: application/json
+
+{
+    
+    "correo": "carlitos@gmail.com"
+}
+
+### eliminar un usuario
+DELETE {{url}}/usuario/5fab784bb3ccd63f2043a4b2
+
